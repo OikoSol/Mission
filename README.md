@@ -9,3 +9,6 @@ We aim to create a repository of knowledge of localized sustainable technology, 
 
 The end-goal will be to provide free DIY instructions that allow for most individuals or families, living in houses or apartments, to become as much energy, food & water, waste and transport independent as possible. The technologies in the instructions should be as conducive to life overall as possible, as well as affordable for individuals both in “developed” and “developing” countries.
 
+[Official Website](http://oikosol.com)
+[Subreddit](https://www.reddit.com/r/OikoSol/)
+[Facebook](https://www.facebook.com/oikosol)
