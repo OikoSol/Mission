@@ -6,7 +6,7 @@
 * Get feedback on proposal and re-draft (Feb 2018)
 * Present final proposal (Feb 2018)
 * Perform crowdfunding (March 2018)
-* 
+* Distribute funds as rewards to contributors that have achieved the first goals
 
 # Roadmap goals (preliminary)
 
