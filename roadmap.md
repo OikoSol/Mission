@@ -1,8 +1,8 @@
 # Roadmap timeline (preliminary)
 
-* Finish GitHub transition (Dec 2017)
-* List main roadmap goals (Dec 2017)
-* Draft initial crowdfunding proposal (Jan 2018)
+* ~~Finish GitHub transition (Dec 2017)~~ (Completed)
+* ~~List main roadmap goals (Dec 2017)~~ (Completed)
+* Draft initial crowdfunding proposal (Jan 2018) (In progress)
 * Get feedback on proposal and re-draft (Feb 2018)
 * Present final proposal (Feb 2018)
 * Perform crowdfunding (March 2018)
