@@ -3,7 +3,7 @@
 * ~~Finish GitHub transition (Dec 2017)~~ (Completed)
 * ~~List main roadmap goals (Dec 2017)~~ (Completed)
 * ~~Draft initial crowdfunding proposal (Jan 2018)~~ (Completed
-* Get feedback on proposal and re-draft (Feb 2018)
+* Get feedback on proposal and re-draft (Feb 2018) (In progress)
 * Present final proposal (Feb 2018)
 * Perform crowdfunding (March 2018)
 * Distribute funds as rewards to contributors that have achieved the first goals
