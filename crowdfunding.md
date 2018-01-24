@@ -59,4 +59,4 @@ Please notice how the first instructions marked "Reserved" are not eligible for 
 
 Also notice how in the Others section, it is detailed in the "comments" column how the funds are distributed within that sub-category.
 
-The tokens will be distributed after the crowdfunding event has ended. If the number of funds exceeds any milestone goal, the excess funds will be returned to the 
+The tokens will be distributed after the crowdfunding event has ended. If the number of funds exceeds any milestone goal, the excess funds will be returned to the funders until the number of funds meets the nearest milestone goal. 
