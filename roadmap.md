@@ -3,10 +3,13 @@
 * ~~Finish GitHub transition (Dec 2017)~~ (Completed)
 * ~~List main roadmap goals (Dec 2017)~~ (Completed)
 * ~~Draft initial crowdfunding proposal (Jan 2018)~~ (Completed)
-* Get feedback on proposal and re-draft (Feb 2018) (In progress)
-* Present final proposal (Feb 2018)
-* Perform crowdfunding (March 2018)
-* Distribute funds as rewards to contributors that have achieved the first goals
+* ~~Get feedback on proposal and re-draft~~ (Feedback indicated disadvantages of performing ITO)
+* ~~Present final proposal~~ (Abandoned)
+* ~~Perform crowdfunding~~ (Abandoned)
+* ~~Distribute funds as rewards to contributors that have achieved the first goals~~ (Abandoned)
+* Fix website hosting problem (Mar - Apr 2018)
+* Add Anthroponics instruction (Apr 2018)
+* Design new website landing page (Apr - Jun 2018)
 
 # Roadmap goals (preliminary)
 
